@@ -1,12 +1,65 @@
-<h1 align="center">Hi 👋, I'm Sowmya Ganugapenta</h1>
-<h3 align="center">DevOps Engineer</h3>
+# 👋 Hi there, I'm **Sowmya Ganugapenta**
 
-- 📫 How to reach me **sowmyaganuga956@gmail.com**
+💻 **DevOps Engineer | Cloud Enthusiast | Automation & CI/CD Specialist**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sowmya-ganugapenta-493b26159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sowmya-ganugapenta-493b26159/" height="30" width="40" /></a>
+📧 **Email:** [sowmyaganuga956@gmail.com](mailto:sowmyaganuga956@gmail.com)  
+🌐 **GitHub Username:** [SOWMYAganuga](https://github.com/SOWMYAganuga)
+
+---
+
+## 🚀 About Me  
+I’m a passionate **DevOps Engineer** experienced in building automated CI/CD pipelines, managing cloud infrastructure, and containerizing applications for scalable deployments.  
+I love working with modern DevOps tools and scripting technologies to streamline software delivery and improve efficiency.  
+
+---
+
+## 🧠 Technical Skills  
+
+### ⚙️ DevOps & CI/CD Tools
+<p>
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CI/CD-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+### 🐳 Containers & Orchestration
+<p>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+</p>
+
+### ☁️ Cloud Platforms
+<p>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+</p>
+
+### 🐍 Programming & Scripting
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Shell_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SOWMYAganuga&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOWMYAganuga&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🌱 Currently Exploring  
+- Advanced **Kubernetes deployments** on AWS  
+- **Infrastructure as Code (IaC)** with Terraform  
+- Automation testing integration with CI/CD pipelines  
+
+---
+
+## 📫 Connect With Me  
+<p>
+  <a href="mailto:sowmyaganuga956@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/SOWMYAganuga"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
